@@ -16,7 +16,7 @@ getgenv().Cat = {
     },
     Webhook = {
         ["send Webhook"] = true, --// Send Webhook Auto Setup
-        ["Url Webhook"] = "", --// Link Url Webhook : https://discord.com/api/webhooks/1357928210414964806/w-4maH1TdhxL9GQxWWA8zUTWgbQ0V1aUj1vqsarUtDeywBNyG0O4rYjWHGVgxagTrKhE
+        ["Url Webhook"] = "https://discord.com/api/webhooks/1357928210414964806/w-4maH1TdhxL9GQxWWA8zUTWgbQ0V1aUj1vqsarUtDeywBNyG0O4rYjWHGVgxagTrKhE", --// Link Url Webhook :
         ["UserId"] = "698812228782260264" --// Id Discord You
     }
 }
