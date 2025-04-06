@@ -14,7 +14,7 @@ getgenv().Cat = {
         ["Start Farm Chest"] = {
             ["Enable"] = true, --// Turn on farm chest 
             ["lock money"] = 1000000000, --// Amount of money to stop
-            ["Hop After Collected"] = "All" --// Enter the Number of Chests you want to pick up like "Number" Or "All"
+            ["Hop After Collected"] = "30" --// Enter the Number of Chests you want to pick up like "Number" Or "All"
         },
         ["Stop When Have God's Chalice & Fist Of Darkness"] = { 
             ["Enable"] = false, --// Stop when you have God's Chalice & Fist Of Darkness 
